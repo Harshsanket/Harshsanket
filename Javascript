@@ -1,0 +1,3 @@
+https://www.learn-js.org/
+https://www.w3schools.com/
+https://www.linkedin.com/pulse/var-vs-let-const-easiest-explanation-ever-asit-rohan-dass
