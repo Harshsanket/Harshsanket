@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Harshsanket
-- - 😄 Pronouns: He/Him
 - 👀  I'm deeply immersed in the world of Web Development.
 - 📫 Reach me on e-mail Harshsanket.dev@gmail.com
 - 🌱 Currently, I'm sharpening my skills in the MERN Stack.
