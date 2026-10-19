@@ -1,17 +1,9 @@
-# 👋 Hi there, I'm Harsh!
-🔭I'm deeply immersed in the world of full stack Web Development.<br>📫 Reach me on e-mail Harshsanket.dev@gmail.com<br>🌱 Currently, I'm sharpening my skills on the MERN Stack.<br>⚡ Fun fact: I did coding once for 11hrs straight, fueled by lots of soft drinks, passion and determination!<br>🎮 Outside of coding, I like F1, gaming and enjoy digital art.
+Software engineer from Mumbai. I write TypeScript, Swift, and Python — native macOS clients in Swift, servers and web apps in TypeScript, agents and data pipelines in Python. The language follows the job.
 
-## 💻 Tech Stack
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=43853D)
-![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![EXPRESSJS](	https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)<br/>
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=harshsanket&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+I like software that sits close to whatever it serves — native macOS apps that work with a device directly, file transfer that moves bytes browser-to-browser on WebSockets and Socket.IO with Redis in the background, link tooling that keeps URLs the size they were before tracking grew onto them — and agents in Python and LangChain: retrieval pipelines that read live support tickets, resolve what they can, and route the rest to the right team, with a working frontend under it, running, not a mockup.
+
+I love open source, so most of what I build ends up in a public repo — pinned right below.
+
+The same instinct drives the infrastructure side: my own uptime watching, my own VPN, my own DNS-level ad blocking — keeping services awake is a chore I do delegate to nobody.
+
+Everything I ship ends up deployed, documented, and runnable by someone who didn't build it. That's the finish line I hold my work to.
