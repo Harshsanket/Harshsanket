@@ -7,3 +7,20 @@ I love open source, so most of what I build ends up in a public repo — pinned 
 The same instinct drives the infrastructure side: my own uptime watching, my own VPN, my own DNS-level ad blocking — keeping services awake is a chore I do delegate to nobody.
 
 Everything I ship ends up deployed, documented, and runnable by someone who didn't build it. That's the finish line I hold my work to.
+
+---
+
+### Sponsors
+
+Thanks to everyone who supports my work and open-source projects.
+
+<p align="left">
+  <a href="https://github.com/kumarsidd">
+    <img src="https://github.com/kumarsidd.png"
+         width="80"
+         alt="kumarsidd's GitHub avatar"
+         style="border-radius: 50%;" />
+    <br />
+    <strong>kumarsidd</strong>
+  </a>
+</p>
